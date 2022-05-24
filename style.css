@@ -1,0 +1,18 @@
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hotpink ;
+    color: white ;
+    padding: 20 px ;
+}
+
+.h1-underline {
+    text-decoration: underline;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
