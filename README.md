@@ -16,6 +16,8 @@ changes we have made:
 - consider using a loop for this. 
 - keep track of total number of correct answers out of the 7 questions asked. 
 - continue to use console.log at all times. 
+- Leanna and Munyaradzi made changes to the app.js text file. We seperated the guessingGame fn so that each question in the guessingGame fn has it's own fn. 
+- Munyaradzi drove while Leanna navigated.
 
 User story: 
 
